@@ -162,7 +162,7 @@ currently:
 [00:00:06] Loading basketball ...... OK
 [00:00:07] Loading TWICE playlist .. OK
 
-[00:00:08] Meat and Sugar ................. REQUIRED
+[00:00:08] Meat and Sugar ........  REQUIRED
 [00:00:09] Sleep .................. NOT FOUND
 
 [00:00:10] Ready.
